@@ -30,7 +30,7 @@
     "axios": "^0.16.2",
     "bulma": "^0.5.1",
     "downloadjs": "^1.4.7",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "moment": "^2.18.1",
     "object-assign": "^4.1.1",
     "promise-polyfill": "^6.0.2",
