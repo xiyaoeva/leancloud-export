@@ -27,7 +27,7 @@
     "email": "zhhjchina@gmail.com"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "bulma": "^0.5.1",
     "downloadjs": "^1.4.7",
     "lodash": "^4.17.4",
